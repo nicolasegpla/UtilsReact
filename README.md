@@ -1,6 +1,6 @@
 <h1>Utils to Improve the Workflow in Our React Projects</h1>
 
-<span>createComponent.js</span>
+<h2>createComponent.js</h2>
 
 <span> Paso 1: Configura el Archivo del Script </span>
 <p>Crea un archivo en la raíz de tu proyecto, por ejemplo, createComponent.js.
